@@ -1,9 +1,9 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: Basics
+description: Basics
 ---
 
-## Example coding exercise
+## Loading libraries
 
 ```yaml
 type: NormalExercise
