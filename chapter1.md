@@ -16,7 +16,7 @@ skills: 1
 asdfasdfasdfasdfsadfasfasdfsasdffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
 `@instructions`
-Load some library using library(X)
+Load some library using `library(X)`
 
 `@hint`
 
