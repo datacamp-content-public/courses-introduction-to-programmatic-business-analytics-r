@@ -33,7 +33,7 @@ Load some library using `library(X)`
 
 `@solution`
 ```{r}
-
+library(ggplot)
 ```
 
 `@sct`
